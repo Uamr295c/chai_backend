@@ -1,0 +1,2 @@
+PORT=8000
+MONGOO_URL=mongodb+srv://umarfaisalumarfaisal447:your-password@cluster0.f0plbfv.mongodb.net
